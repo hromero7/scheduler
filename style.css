@@ -1,0 +1,59 @@
+
+#header {
+    text-align: center; 
+    margin-top: 70px; 
+    line-height: 10px;
+    height: 15vh; 
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+hr {
+    border: solid 5px; 
+}
+
+h1 {
+    font-size: 50px;
+}
+
+#currentTime {
+    margin-top: 30px;
+}
+
+.saveBtn {
+    background-color: teal;
+    height: 50px; 
+    margin: 0;
+    width: 70px; 
+    border-radius: 10px;
+    
+
+}
+
+.fa-save {
+    color: white; 
+    font-size: 20px;
+}
+
+#planner {
+    text-align: center; 
+    margin-top: 20px;
+}
+
+.text-box {
+    width: 700px; 
+    height: 50px; 
+    font-size: 18px;
+    
+}
+
+.timePlanner {
+    border-top:  dotted grey; 
+    border-bottom: dotted grey;
+    border-right: solid grey;
+    padding: 15px; 
+    
+}
+
+.timeRow {
+    margin: 20px;
+}
