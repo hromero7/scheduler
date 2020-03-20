@@ -57,3 +57,7 @@ h1 {
 .timeRow {
     margin: 20px;
 }
+
+::placeholder {
+    color: black; 
+}
